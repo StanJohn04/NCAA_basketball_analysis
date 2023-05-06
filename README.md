@@ -8,5 +8,5 @@
   * Looking into using TeamRankings.com instead because they have historical data.
   * Eventually:
     * Create a dashboard that will display stats and visualizations
-    * train a machine learning algorythm that will analyze stats and attempt to predict game outcomes
+    * train a machine learning algorithm that will analyze stats and attempt to predict game outcomes
       * ideally fill out a march madness bracket
