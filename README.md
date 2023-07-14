@@ -32,7 +32,6 @@ Plotting of some of these relationships shows correlation between different stat
   
   ![image](https://github.com/StanJohn04/NCAA_basketball_analysis/assets/121142680/d2877bd3-cae6-42e6-88e8-6eac00e4b6a3)
 
-* In the graph below, the middle cluster is faded out to allow for better contrast between the the two outside clusters
 
   ![image](https://github.com/StanJohn04/NCAA_basketball_analysis/assets/121142680/417c92ee-1fac-4f5e-87a3-fa5ce31579ee)
 
